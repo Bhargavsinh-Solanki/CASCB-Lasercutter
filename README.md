@@ -10,3 +10,7 @@
 6. Type the following IP address : ```10.250.250.1```
 7. If it is for the first time then will be direct to a setup page and if you have already made an account, you will be asked to login.
 8. Enter the Username and password. (Contact Jan Peters)
+
+
+## Materials details
+- Generally, thicker materials like wood (poplar plywood up to 8mm) and foam (up to 30mm) can be processed, while thinner materials like acrylic (up to 3mm) and paper (up to 5mm) are also suitable.
